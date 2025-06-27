@@ -34,10 +34,10 @@ interface Item {
 // Business Header
 const businessDetails = {
     name: "JAISWAL SALES",
-    address: "NR. Khedut Petrol Pump, Highway Road, Modasa-383315",
-    address2: "Dist. Arvalli",
-    gstin: "GSTIN: 24CVZPS7118B1Z4",
-    contact: "Mo. 9924587353"
+    address: "APMC MARKET ,NEAR BUS STOP,AT PO. TEJGADH, TA. DIST. CHHOTAUDEPUR",
+    address2: "Bank: State Bank Of India Tejgadh, A/C No: 36107439043, IFSC: SBIN0003845",
+    gstin: "GSTN NO: 24AAMFJ3444PIZW | PAN: AAMFJ3444P",
+    contact: "Mo. 8401772172"
 };
 
 const businessDetailsGu = {
