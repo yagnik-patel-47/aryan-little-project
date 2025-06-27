@@ -69,7 +69,7 @@ export default function ImportPage() {
   };
 
   return (
-    <div style={{ maxWidth: 600, margin: "40px auto", padding: 24, background: "#fff", borderRadius: 8, boxShadow: "0 2px 8px #0001" }}>
+    <div style={{ maxWidth: 600, margin: "40px auto", padding: 24, background: "#fff", borderRadius: 8, boxShadow: "0 2px 8px #0001", color: "#222" }}>
       <h1>{language === 'gu' ? 'જથ્થાબંધ ડેટા આયાત કરો' : 'Bulk Import Data'}</h1>
       <p>{language === 'gu' ? 'દરેક ટેબલ માટે CSV ફાઇલો અપલોડ કરો. કૉલમ્સ તમારા સુપાબેસ સ્કીમા સાથે મેળ ખાતી હોવી જોઈએ.' : 'Upload CSV files for each table. Columns should match your Supabase schema.'}</p>
       
